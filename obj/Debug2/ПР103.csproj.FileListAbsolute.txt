@@ -1,0 +1,14 @@
+D:\Develop\c#\ПР103\obj\Debug2\ПР103.csproj.AssemblyReference.cache
+D:\Develop\c#\ПР103\obj\Debug2\ПР103.PR103.resources
+D:\Develop\c#\ПР103\obj\Debug2\ПР103.Properties.Resources.resources
+D:\Develop\c#\ПР103\obj\Debug2\ПР103.csproj.GenerateResource.cache
+D:\Develop\c#\ПР103\obj\Debug2\ПР103.csproj.CoreCompileInputs.cache
+D:\Develop\c#\ПР103\bin\Debug2\ОВЕН ПР103 Modbus TCP Reader.exe.config
+D:\Develop\c#\ПР103\bin\Debug2\ОВЕН ПР103 Modbus TCP Reader.exe
+D:\Develop\c#\ПР103\bin\Debug2\ОВЕН ПР103 Modbus TCP Reader.pdb
+D:\Develop\c#\ПР103\obj\Debug2\ОВЕН ПР103 Modbus TCP Reader.exe
+D:\Develop\c#\ПР103\obj\Debug2\ОВЕН ПР103 Modbus TCP Reader.pdb
+D:\Develop\c#\ПР103\bin\Debug\ОВЕН ПР103 Modbus TCP Reader.exe.config
+D:\Develop\c#\ПР103\bin\Debug\ОВЕН ПР103 Modbus TCP Reader.exe
+D:\Develop\c#\ПР103\bin\Debug\ОВЕН ПР103 Modbus TCP Reader.pdb
+D:\Develop\c#\ПР103\obj\Debug2\ОВЕН ПР103 Modbus TCP Reader.exe.config
